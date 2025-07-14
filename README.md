@@ -6,7 +6,7 @@ A sleek and responsive React web application to browse, search, and favorite mov
 
 ## 📸 Preview
 
-![RudraFlix Screenshot](https://your-screenshot-link-if-you-have-one.png) <!-- Optional -->
+(https://rudraflix.netlify.app)
 
 ---
 
